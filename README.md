@@ -22,7 +22,7 @@
       "PASS": ""
     },
     {
-      "Name": "PROVEDOR TESTE",
+      "Name": "PROVEDOR BR",
       "TYPE": "teste",
       "FLAG": "ca.png",
       "ServerIP": "dominio.rochanet.online",
