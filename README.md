@@ -1,7 +1,7 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?id=16474",
+  "UrlUpdate": "https://github.com/upalfadate/hdisbsi/raw/main/UrlUpdate",
   "Sms": "BOTAR LINK DO SMS AQUI",
   "EmailFeedback": "apolossh@gmail.com",
   "UrlContato": "https://t.me/apolo_vx",
