@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://paste.anasor.com/paste.php?id=16474",
   "Sms": "BOTAR LINK DO SMS AQUI",
@@ -116,6 +116,16 @@
 "ProxyPort": "80",
 "Info": "Proxy"
 },
+{
+       "Name": "VIVO PROXY 1",
+       "FLAG": "vivo",
+          "Payload": "GET wss://unpkg.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+          "SNI": "unpkg.com",
+          "TlsIP": "172.67.165.43",
+          "ProxyIP": "",
+          "ProxyPort": "443",
+          "Info": "Tlsws"
+        },
 {
 "Name": "VIVO TURBO 3",
 "FLAG": "vivo.png.png",
