@@ -1,31 +1,4 @@
-{
-  "Version": "1.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://github.com/upalfadate/hdisbsi/raw/main/UrlUpdate",
-  "Sms": "BOTAR LINK DO SMS AQUI",
-  "EmailFeedback": "apolossh@gmail.com",
-  "UrlContato": "https://t.me/apolo_vx",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
-  "CheckUser": "true",
-  "Udp": [
-    {
-      "Porta": "7300"
-    }
-  ],
-  "Servers": [
-    {
-      "Name": "Servidor BR",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "moreira.host",
-      "CheckUser": "http://209.14.136.36:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    }
-  ],
-  "Networks": [
+
 {
 "Name": "CLARO SHOW",
 "FLAG": "claro.png",
